@@ -1,23 +1,23 @@
 # Attrition-Analysis-Dashboard (Excel) 
 
-**Overview**
+# Overview
 
 This project focuses on analyzing employee attrition within an organization using Excel. The objective is to provide a comprehensive understanding of attrition patterns, employee demographics, and job-related factors influencing turnover. The analysis leverages various Excel features including pivot tables, VLOOKUP, and conditional formatting to present actionable insights and support data-driven decision-making.
 
-**Data Description**
+# Data Description
 
 - The dataset includes detailed information about employees, encompassing:
-- 
-- __Employee Attributes:__
+
+- Employee Attributes:
 Gender, age, marital status, education level, job role, and business travel frequency.
-- 
-- __Job Metrics:__ 
+
+- Job Metrics: 
 Job satisfaction, work-life balance, job involvement, and performance ratings.
-- 
-- _Compensation Details: _
+
+- Compensation Details: 
 Monthly income, hourly rate, and stock option level.
-- 
-- _Attrition Data: _
+
+- Attrition Data:
 Indicates whether employees have left the organization or are still active, along with the reasons for attrition.
 
 Key columns include:
@@ -30,7 +30,7 @@ Key columns include:
 - _Monthly Income:_ Monthly salary of the employee.
 - _Job Satisfaction:_ Employee’s satisfaction with their job.
 
-**Key Insights**
+# Key Insights
 _Gender Distribution:_
 
 - Female employees constitute 40% of the workforce, while male employees make up 60%.
@@ -59,6 +59,6 @@ _Attrition Rate Metrics:_
 
 - The overall attrition rate is 16.1%, with a total of 237 employees having left the organization out of 1470. The average age of employees is 37, with 1233 currently active.
 
-**Conclusion**
+# Conclusion
 
 The dashboard provides a detailed overview of employee attrition, highlighting significant trends and patterns. By analyzing various dimensions such as gender, job role, department, age, education, and business travel, the insights derived can inform HR strategies to improve employee retention and satisfaction. Key areas for improvement include addressing high attrition rates in specific departments and job roles, enhancing job satisfaction among younger employees, and exploring the impact of education on attrition.
