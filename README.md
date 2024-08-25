@@ -11,7 +11,7 @@ This project focuses on analyzing employee attrition within an organization usin
 - **Employee Attributes:**
 Gender, age, marital status, education level, job role, and business travel frequency.
 
-- **Job Metrics: **
+- **Job Metrics:**
 Job satisfaction, work-life balance, job involvement, and performance ratings.
 
 - **Compensation Details:** 
